@@ -6,9 +6,6 @@ Welcome to the AI Chatbot Website! This application offers an interactive chatbo
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API](#api)
-- [Contact](#contact)
 - [Demo](#Demo)
 
 ## Features
